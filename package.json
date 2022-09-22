@@ -1,0 +1,21 @@
+{
+  "name": "arreglos_y_objetos",
+  "version": "1.0.0",
+  "description": "Arreglos y objetos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paloma A",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "readline-sync": "^1.4.10",
+    "sequelize": "^6.23.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
